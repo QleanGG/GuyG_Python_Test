@@ -8,5 +8,3 @@ def myzip(it1 , it2):
     result = list(zip(it1,it2))
     return result
 
-# myzip([1,2,3], ('a','b','c'))
-# myzip(['u',2,3], ('u',1,'2'))
