@@ -3,7 +3,7 @@ Test module
 can call all the functions from all modules to this program
 '''
 
-from col import myzip
+from col import *
 from number import simp, comp
 
 # checking myzip
